@@ -1,0 +1,11 @@
+{
+  "org": "scrapinghub",
+  "repo": "frontera",
+  "versions": [
+    {
+      "commit": "c94beae2f438492139d24759729d0201779ccf1c",
+      "tag": "",
+      "parsed_at": "2026-10-19T13:18:05.573344+00:00"
+    }
+  ]
+}
