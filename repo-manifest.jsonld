@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scrapinghub/frontera/commit/c94beae2f438492139d24759729d0201779ccf1c",
       "git:hexsha": "c94beae2f438492139d24759729d0201779ccf1c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T13:18:05.572797+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scrapinghub/frontera/commit/67431ba2aa320a3cb383fb4f600e1b8dacb0b9da",
